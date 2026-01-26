@@ -50,6 +50,7 @@ textarea{
     color: rgb(0, 0, 0);
     border: 1px solid #dddddd;
     border-radius: 5px;
+    resize: none;
 
 
 
