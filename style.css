@@ -51,7 +51,9 @@ textarea{
     border: 1px solid #dddddd;
     border-radius: 5px;
     resize: none;
+    animation: slideIn 1s ease; 
 
+}
 
 
     
