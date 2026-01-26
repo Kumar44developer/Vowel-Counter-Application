@@ -19,3 +19,6 @@ body{
     align-items: center;
     animation: neonGlow 1s infinite alternate;
 }
+
+@keyframes neonGlow {
+    from{
