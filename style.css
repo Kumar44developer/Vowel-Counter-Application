@@ -16,3 +16,6 @@ body{
     padding: 20px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    animation: neonGlow 1s infinite alternate;
+}
