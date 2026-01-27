@@ -21,3 +21,4 @@ function checkVowels(){
 
 
 function isVowel(char){
+    const vowels = ["a","e","i","o","u"];
