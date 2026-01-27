@@ -15,3 +15,9 @@ function checkVowels(){
 
  const result = document.getElementById('result');
  result.textContent = "Total Vowels: " + vowelCount;
+
+
+}
+
+
+function isVowel(char){
