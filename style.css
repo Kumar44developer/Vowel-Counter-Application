@@ -92,5 +92,6 @@ button:hover{
     margin-top: 20px;
     color: azure;
     font-weight: bold;
-
+    animation: neonGlow 1s infinite alternate;
+}
     
