@@ -12,3 +12,5 @@ function checkVowels(){
         vowelCount++;
     }
   }
+
+ const result = document.getElementById('result');
