@@ -5,3 +5,5 @@ function checkVowels(){
  let vowelCount = 0;
 
   text = text.toLowerCase();
+
+  for(let i = 0; i < text.length; i++){
